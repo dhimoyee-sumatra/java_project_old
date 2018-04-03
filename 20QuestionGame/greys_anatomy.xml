@@ -1,0 +1,121 @@
+<question text="Is a female character?">
+	<answer user_answer="yes">
+		<question text="Is she still in the series?">
+			<answer user_answer="yes">
+				<question text="Is she an orthopedic surgeon?">
+					<answer user_answer="yes">
+						<thing value="Callie Torres" />
+					</answer>
+					<answer user_answer="no">
+						<question text="Did she get her leg amputated after a plane crash?">
+							<answer user_answer="yes">
+								<thing value="Arizona Robbins" />
+							</answer>
+							<answer user_answer="no">
+								<question text="Did she run away on her wedding to marry Jackson?">
+									<answer user_answer="yes">
+										<thing value="April Kepner" />
+									</answer>
+									<answer user_answer="no">
+										<question text="Did she adopt Zolla and gave birth to Bailey and Ellis?">
+											<answer user_answer="yes">
+												<thing value="Meredith Grey" />
+											</answer>
+											<answer user_answer="no">
+												<thing value="Miranda Bailey" />
+											</answer>
+										</question>
+									</answer>
+								</question>
+							</answer>
+						</question>	
+					</answer>
+				</question>
+			</answer>
+			<answer user_answer="no">
+				<question text="Was she an cardiothoracic surgeon?">
+					<answer user_answer="yes">
+						<thing value="Cristina Yang" />
+					</answer>
+					<answer user_answer="no">
+						<question text="Did she used to hallucinate her dead fiancé?">
+							<answer user_answer="yes">
+								<thing value="Izzie Stevens" />
+							</answer>
+							<answer user_answer="no">
+								<question text="Was she nicknamed Lexipedia?">
+									<answer user_answer="yes">
+										<thing value="Lexi Grey" />
+									</answer>
+									<answer user_answer="no">
+										<question text="Was she ever married to Derek Shepherd?">
+											<answer user_answer="yes">
+												<thing value="Addison Montgomery" />
+											</answer>
+											<answer user_answer="no">
+												<thing value="Ellis Grey" />
+											</answer>
+										</question>
+									</answer>
+								</question>
+							</answer>
+						</question>
+					</answer>
+				</question>
+			</answer>
+		</question>
+	</answer>
+	<answer user_answer="no">
+		<question text="Is he still in the series?">
+			<answer user_answer="yes">
+				<question text="Is he green-eyed plastic surgeon?">
+					<answer user_answer="yes">
+						<thing value="Jackson Avery" />
+					</answer>
+					<answer user_answer="no">
+						<question text="Did he serve in the military??">
+							<answer user_answer="yes">
+								<thing value="Owen Hunt" />
+							</answer>
+							<answer user_answer="no">
+								<question text="Did both of his love died due to Alzheimer's?">
+									<answer user_answer="yes">
+										<thing value="Richard Webber" />
+									</answer>
+									<answer user_answer="no">
+										<thing value="Alex Karev" />
+									</answer>
+								</question>
+							</answer>
+						</question>
+					</answer>
+				</question>
+			</answer>
+			<answer user_answer="no">
+				<question text="Was he called 007 by his fellows?">
+					<answer user_answer="yes">
+						<thing value="George O'Malley" />
+					</answer>
+					<answer user_answer="no">
+						<question text="Did he leave Cristina at the alter on their wedding?">
+							<answer user_answer="yes">
+								<thing value="Preston Burke" />
+							</answer>
+							<answer user_answer="no">
+								<question text="Was the hospital named after him?">
+									<answer user_answer="yes">
+										<thing value="Mark Sloan" />
+									</answer>
+									<answer user_answer="no">
+										<thing value="Derek Shepherd" />
+									</answer>
+								</question>
+							</answer>
+						</question>
+					</answer>
+				</question>
+			</answer>
+		</question>
+	</answer>
+</question>
+	
